@@ -20,7 +20,11 @@
 - [deployed contract](https://rinkeby.etherscan.io/address/0xb6773856a2d7fc7a5fd56f9f332c931f70e5b5be)
 
 ### Lesson 2: Storage Factory (02:09:32)
+- import, inheritance, deploy contract from different contract,...
 ### Lesson 3: Fund Me (02:26:35)
+- chainlink price feeds, concept of modifiers, require, msg.sender, owner, constructur
+- fund me application
+
 ### Lesson 4: Web3.py Simple Storage (03:26:48)
 ### Lesson 5: Brownie Simple Storage (04:27:55)
 ### Lesson 6: Brownie Fund Me (05:06:34)
